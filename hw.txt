@@ -1,0 +1,2 @@
+1)write a js to decalre 2 funs i.e inner and outer
+similar to func_arg.js
